@@ -1,4 +1,6 @@
-# 💫 About Me:
+[![An image of @codestrate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codestrate)](https://holopin.io/@codestrate)
+
+# 💫 About Me: Hardik Sharma
 🔭 I’m currently working on Game Development<br><br>🌱 I’m currently learning Machine Learning, Deep Learning<br><br>👯 I’m looking to collaborate on Deep.Imager - ImageUpscaler by Deep Learning<br><br>🤝 I’m looking for help with QuizApp<br><br>💬 Ask me about Python, UI Design, SVMs<br><br>⚡Fun Fact about me been a gaming YouTuber
 
 
