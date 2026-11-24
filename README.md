@@ -10,7 +10,7 @@
 
 I build intelligent systems that combine ML, automation, and backend engineering.
 
-On the side, I fine-tune and train domain-specific **Small Language Models** — [**350+ downloads on Hugging Face**](https://huggingface.co/codestrate) and counting.
+On the side, I fine-tune and train domain-specific **Small Language Models** — [**4k+ downloads on Hugging Face**](https://huggingface.co/codestrate) and counting.
 
 ---
 
