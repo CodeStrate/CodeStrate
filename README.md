@@ -2,7 +2,7 @@
 
 # Hardik Sharma
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+Backend+Engineer;Building+intelligent+systems+%F0%9F%A4%96;Multi-agent+orchestration+%E2%9C%A8;Dockerized+AI+services+%F0%9F%90%B3;Fine-tuning+Small+Language+Models+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+Backend+Engineer;Building+intelligent+systems+%F0%9F%A4%96;Multi-agent+orchestration+%E2%9C%A8;Dockerized+AI+services+%F0%9F%90%B3;Fine-tuning+Small+Language+Models+%F0%9F%A7%A0;Wefty%3A+memory+%26+handoffs+for+coding+agents+%F0%9F%A7%B5)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,9 @@
 
 I build intelligent systems that combine ML, automation, and backend engineering.
 
-On the side, I fine-tune and train domain-specific **Small Language Models** — [**4k+ downloads on Hugging Face**](https://huggingface.co/codestrate) and counting.
+Lately I'm building [**Wefty**](https://github.com/CodeStrate/Wefty), a local desktop app for the memory and sessions your coding agents already keep, so when one agent stops another can pick the work up.
+
+On the side, I fine-tune and train domain-specific **Small Language Models**: [**4k+ downloads on Hugging Face**](https://huggingface.co/codestrate) and counting.
 
 ---
 
@@ -37,15 +39,21 @@ On the side, I fine-tune and train domain-specific **Small Language Models** —
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
+**Desktop** &nbsp;
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
 ---
 
 ## Featured Projects
 
-- [**LLM Gauntlet**](https://github.com/CodeStrate/LLM-Gauntlet-BlogSite) — Benchmarking and blog site for open-source coding models across Python engineering and RAG Agentic task; scored execution-first. Live at [Vercel](https://llm-gauntlet-blog.vercel.app/) · `React 19 · TypeScript · Vite`
-- [**Pedagogy Agent**](https://github.com/CodeStrate/pedagogy-agent-mastra) — Mastra agent that ingests textbook PDFs and produces structured pedagogical JSON, with a CLI to export per-class Excel workbooks · `Bun · Mastra · Gemini`
-- [**Document Skills Agent**](https://github.com/CodeStrate/Document_Skills_Agent) — Multi-model AI assistant (Claude, GPT, Gemini) for creating and editing Word, PowerPoint, PDF, and Excel files with embedded chart generation · `Python · Agno · Docker`
-- [**Vigilius Analyst**](https://github.com/CodeStrate/Vigilius_Analyst) — Offline AI SQL assistant for dataset queries · `FastAPI · Streamlit · Ollama`
-- [**Ollama RAG Agent**](https://github.com/CodeStrate/OllamaAgent) — Modular RAG agent with web/code tools and multi-step reasoning · `Python · ChromaDB · FastAPI`
+- [**Wefty**](https://github.com/CodeStrate/Wefty) - See and edit the memory and sessions your coding agents already have (Claude Code, Codex, Cursor, Opencode), and when one agent stops, hand the work to another in one click. Local-only, with a built-in terminal. [Site](https://codestrate.github.io/Wefty/) · `Electron · React · TypeScript · node-pty`
+- [**LLM Gauntlet**](https://github.com/CodeStrate/LLM-Gauntlet-BlogSite) - Benchmarking and blog site for open-source coding models across Python engineering and RAG Agentic task; scored execution-first. Live at [Vercel](https://llm-gauntlet-blog.vercel.app/) · `React 19 · TypeScript · Vite`
+- [**Pedagogy Agent**](https://github.com/CodeStrate/pedagogy-agent-mastra) - Mastra agent that ingests textbook PDFs and produces structured pedagogical JSON, with a CLI to export per-class Excel workbooks · `Bun · Mastra · Gemini`
+- [**Document Skills Agent**](https://github.com/CodeStrate/Document_Skills_Agent) - Multi-model AI assistant (Claude, GPT, Gemini) for creating and editing Word, PowerPoint, PDF, and Excel files with embedded chart generation · `Python · Agno · Docker`
+- [**Vigilius Analyst**](https://github.com/CodeStrate/Vigilius_Analyst) - Offline AI SQL assistant for dataset queries · `FastAPI · Streamlit · Ollama`
+- [**Ollama RAG Agent**](https://github.com/CodeStrate/OllamaAgent) - Modular RAG agent with web/code tools and multi-step reasoning · `Python · ChromaDB · FastAPI`
 
 ---
 
